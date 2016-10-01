@@ -1,0 +1,16 @@
+{
+  "name": "jenkins-simple-theme-bedjango",
+  "version": "1.0.0",
+  "description": "BeDjango Jenkins theme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.5.6",
+    "gulp-concat": "^2.2.0",
+    "gulp-hash-filename": "^1.0.1",
+    "gulp-clean-css": "^2.0.10",
+    "gulp-sass": "^2.0.4",
+    "gulp-sync": "^0.1.4"
+  }
+}

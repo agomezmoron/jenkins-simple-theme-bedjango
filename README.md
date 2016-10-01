@@ -1,7 +1,8 @@
-# Jenkins La Drupalera Theme
+# Jenkins BeDjango Theme
 
-<img src="http://jenkins.io/images/logo_128.png" alt="" />
 <img src="src/img/bedjango_logo.png" alt="" height="128" />
+&nbsp;&nbsp;
+<img src="http://jenkins.io/images/logo_128.png" alt="" />
 
 Are you looking for an awesome Django theme for your Jenkins? You're lucky! Here you have **Jenkins BeDjango Theme**!
 

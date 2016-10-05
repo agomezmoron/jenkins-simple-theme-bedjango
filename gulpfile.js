@@ -52,7 +52,7 @@ gulp.task('sass', gulpsync.sync(['cleanDist']), function (done) {
   gulp.src(['./src/scss/jenkins-bedjango-theme.scss'])
     .pipe(sass())
     .on('error', sass.logError)
-    .pipe(concat('jenkins-ladrupalera-theme.css'))
+    .pipe(concat('jenkins-bedjango-theme.css'))
     .pipe(gulp.dest(paths.destCss))
     .on('end', done);
 });

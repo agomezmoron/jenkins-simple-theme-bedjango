@@ -44,6 +44,11 @@ img.icon-blue{
     background-image: url("../img/success-32x32.png");
     padding: 16px;
   }
+
+  &.icon-xlg{
+    background-image: url("../img/success-32x32.png");
+    padding: 16px;
+  }
 }
 
 
@@ -83,6 +88,11 @@ img.icon-grey{
     background-image: url("../img/warning32x32.gif");
     padding: 16px;
   }
+
+  &.icon-xlg{
+    background-image: url("../img/warning32x32.gif");
+    padding: 20px;
+  }
 }
 
 img.icon-grey-anime{
@@ -100,6 +110,11 @@ img.icon-grey-anime{
   &.icon-lg{
     background-image: url("../img/warning32x32.gif");
     padding: 16px;
+  }
+
+  &.icon-xlg{
+    background-image: url("../img/warning32x32.gif");
+    padding: 20px;
   }
 }
 
@@ -120,6 +135,11 @@ img.icon-red{
     background-image: url("../img/error-32x32.png");
     padding: 16px;
   }
+
+  &.icon-xlg{
+    background-image: url("../img/error-32x32.png");
+    padding: 20px;
+  }
 }
 
 //Gif fail
@@ -138,6 +158,11 @@ img.icon-red-anime{
   &.icon-lg{
     background-image: url("../img/error32x32.gif");
     padding: 16px;
+  }
+
+  &.icon-xlg{
+    background-image: url("../img/error32x32.gif");
+    padding: 20px;
   }
 }
 
@@ -158,6 +183,11 @@ img.icon-yellow{
     background-image: url("../img/not-executed-32x32.png");
     padding: 16px;
   }
+
+  &.icon-xlg{
+    background-image: url("../img/not-executed-32x32.png");
+    padding: 20px;
+  }
 }
 
 //Gif warning
@@ -176,6 +206,11 @@ img.icon-yellow-anime{
   &.icon-lg{
     background-image: url("../img/warning32x32.gif");
     padding: 16px;
+  }
+
+  &.icon-xlg{
+    background-image: url("../img/warning32x32.gif");
+    padding: 20px;
   }
 }
 
@@ -196,6 +231,11 @@ img.icon-nobuilt{
     background-image: url("../img/not-executed-32x32.png");
     padding: 16px;
   }
+
+  &.icon-xlg{
+    background-image: url("../img/not-executed-32x32.png");
+    padding: 20px;
+  }
 }
 
 //Gif warning
@@ -215,6 +255,11 @@ img.icon-nobuilt-anime{
     background-image: url("../img/warning32x32.gif");
     padding: 16px;
   }
+
+  &.icon-xlg{
+    background-image: url("../img/warning32x32.gif");
+    padding: 20px;
+  }
 }
 
 img.icon-aborted{
@@ -232,6 +277,11 @@ img.icon-aborted{
   &.icon-lg{
     background-image: url("../img/not-executed-32x32.png");
     padding: 16px;
+  }
+
+  &.icon-xlg{
+    background-image: url("../img/not-executed-32x32.png");
+    padding: 20px;
   }
 }
 
@@ -252,6 +302,11 @@ img.icon-aborted-anime{
     background-image: url("../img/warning32x32.gif");
     padding: 16px;
   }
+
+  &.icon-xlg{
+    background-image: url("../img/warning32x32.gif");
+    padding: 20px;
+  }
 }
 
 //Change the clock icon
@@ -270,6 +325,11 @@ img.icon-clock{
   &.icon-lg{
     background-image: url("../img/play-32x32.png");
     padding: 16px;
+  }
+
+  &.icon-xlg{
+    background-image: url("../img/play-32x32.png");
+    padding: 20px;
   }
 }
 
@@ -290,6 +350,11 @@ img.icon-clock-anime{
     background-image: url("../img/clock-24x24.gif");
     padding: 16px;
   }
+
+  &.icon-xlg{
+    background-image: url("../img/clock-24x24.gif");
+    padding: 20px;
+  }
 }
 
 //State warning
@@ -303,6 +368,11 @@ img.icon-health-20to39, img.icon-health-40to59, img.icon-health-60to79, img.icon
   &.icon-md{
     background-image: url("../img/warning24x24.png");
     padding: 12px;
+  }
+
+  &.icon-lg{
+    background-image: url("../img/warning32x32.png");
+    padding: 16px;
   }
 
   &.icon-lg{
@@ -324,9 +394,9 @@ img.icon-health-00to19{
     padding: 12px;
   }
 
-  &.icon-lg{
+  &.icon-xlg{
     background-image: url("../img/fail32x32.png");
-    padding: 16px;
+    padding: 20px;
   }
 }
 
@@ -346,6 +416,11 @@ img.icon-health-80plus{
   &.icon-lg{
     background-image: url("../img/smile32x32.png");
     padding: 16px;
+  }
+
+  &.icon-xlg{
+    background-image: url("../img/smile32x32.png");
+    padding: 20px;
   }
 }
 

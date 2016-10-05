@@ -106,6 +106,10 @@ img.icon-blue.icon-lg {
   background-image: url("../img/success-32x32.png");
   padding: 16px; }
 
+img.icon-blue.icon-xlg {
+  background-image: url("../img/success-32x32.png");
+  padding: 16px; }
+
 img.icon-blue-anime.icon-sm {
   background-image: url("../img/success16x16.gif");
   padding: 8px; }
@@ -130,6 +134,10 @@ img.icon-grey.icon-lg {
   background-image: url("../img/warning32x32.gif");
   padding: 16px; }
 
+img.icon-grey.icon-xlg {
+  background-image: url("../img/warning32x32.gif");
+  padding: 20px; }
+
 img.icon-grey-anime.icon-sm {
   background-image: url("../img/warning16x16.gif");
   padding: 8px; }
@@ -141,6 +149,10 @@ img.icon-grey-anime.icon-md {
 img.icon-grey-anime.icon-lg {
   background-image: url("../img/warning32x32.gif");
   padding: 16px; }
+
+img.icon-grey-anime.icon-xlg {
+  background-image: url("../img/warning32x32.gif");
+  padding: 20px; }
 
 img.icon-red.icon-sm {
   background-image: url("../img/error-16x16.png");
@@ -154,6 +166,10 @@ img.icon-red.icon-lg {
   background-image: url("../img/error-32x32.png");
   padding: 16px; }
 
+img.icon-red.icon-xlg {
+  background-image: url("../img/error-32x32.png");
+  padding: 20px; }
+
 img.icon-red-anime.icon-sm {
   background-image: url("../img/error16x16.gif");
   padding: 8px; }
@@ -165,6 +181,10 @@ img.icon-red-anime.icon-md {
 img.icon-red-anime.icon-lg {
   background-image: url("../img/error32x32.gif");
   padding: 16px; }
+
+img.icon-red-anime.icon-xlg {
+  background-image: url("../img/error32x32.gif");
+  padding: 20px; }
 
 img.icon-yellow.icon-sm {
   background-image: url("../img/not-executed-16x16.png");
@@ -178,6 +198,10 @@ img.icon-yellow.icon-lg {
   background-image: url("../img/not-executed-32x32.png");
   padding: 16px; }
 
+img.icon-yellow.icon-xlg {
+  background-image: url("../img/not-executed-32x32.png");
+  padding: 20px; }
+
 img.icon-yellow-anime.icon-sm {
   background-image: url("../img/warning16x16.gif");
   padding: 8px; }
@@ -189,6 +213,10 @@ img.icon-yellow-anime.icon-md {
 img.icon-yellow-anime.icon-lg {
   background-image: url("../img/warning32x32.gif");
   padding: 16px; }
+
+img.icon-yellow-anime.icon-xlg {
+  background-image: url("../img/warning32x32.gif");
+  padding: 20px; }
 
 img.icon-nobuilt.icon-sm {
   background-image: url("../img/not-executed-16x16.png");
@@ -202,6 +230,10 @@ img.icon-nobuilt.icon-lg {
   background-image: url("../img/not-executed-32x32.png");
   padding: 16px; }
 
+img.icon-nobuilt.icon-xlg {
+  background-image: url("../img/not-executed-32x32.png");
+  padding: 20px; }
+
 img.icon-nobuilt-anime.icon-sm {
   background-image: url("../img/warning16x16.gif");
   padding: 8px; }
@@ -213,6 +245,10 @@ img.icon-nobuilt-anime.icon-md {
 img.icon-nobuilt-anime.icon-lg {
   background-image: url("../img/warning32x32.gif");
   padding: 16px; }
+
+img.icon-nobuilt-anime.icon-xlg {
+  background-image: url("../img/warning32x32.gif");
+  padding: 20px; }
 
 img.icon-aborted.icon-sm {
   background-image: url("../img/not-executed-16x16.png");
@@ -226,6 +262,10 @@ img.icon-aborted.icon-lg {
   background-image: url("../img/not-executed-32x32.png");
   padding: 16px; }
 
+img.icon-aborted.icon-xlg {
+  background-image: url("../img/not-executed-32x32.png");
+  padding: 20px; }
+
 img.icon-aborted-anime.icon-sm {
   background-image: url("../img/warning16x16.gif");
   padding: 8px; }
@@ -237,6 +277,10 @@ img.icon-aborted-anime.icon-md {
 img.icon-aborted-anime.icon-lg {
   background-image: url("../img/warning32x32.gif");
   padding: 16px; }
+
+img.icon-aborted-anime.icon-xlg {
+  background-image: url("../img/warning32x32.gif");
+  padding: 20px; }
 
 img.icon-clock.icon-sm {
   background-image: url("../img/play-24x24.png");
@@ -250,6 +294,10 @@ img.icon-clock.icon-lg {
   background-image: url("../img/play-32x32.png");
   padding: 16px; }
 
+img.icon-clock.icon-xlg {
+  background-image: url("../img/play-32x32.png");
+  padding: 20px; }
+
 img.icon-clock-anime.icon-sm {
   background-image: url("../img/clock-16x16.gif");
   padding: 8px; }
@@ -261,6 +309,10 @@ img.icon-clock-anime.icon-md {
 img.icon-clock-anime.icon-lg {
   background-image: url("../img/clock-24x24.gif");
   padding: 16px; }
+
+img.icon-clock-anime.icon-xlg {
+  background-image: url("../img/clock-24x24.gif");
+  padding: 20px; }
 
 img.icon-health-20to39.icon-sm, img.icon-health-40to59.icon-sm, img.icon-health-60to79.icon-sm, img.icon-health-40to59.icon-sm, img.icon-health-60to79.icon-sm {
   background-image: url("../img/warning16x16.png");
@@ -274,6 +326,10 @@ img.icon-health-20to39.icon-lg, img.icon-health-40to59.icon-lg, img.icon-health-
   background-image: url("../img/warning32x32.png");
   padding: 16px; }
 
+img.icon-health-20to39.icon-lg, img.icon-health-40to59.icon-lg, img.icon-health-60to79.icon-lg, img.icon-health-40to59.icon-lg, img.icon-health-60to79.icon-lg {
+  background-image: url("../img/warning32x32.png");
+  padding: 16px; }
+
 img.icon-health-00to19.icon-sm {
   background-image: url("../img/fail16x16.png");
   padding: 8px; }
@@ -282,9 +338,9 @@ img.icon-health-00to19.icon-md {
   background-image: url("../img/fail24x24.png");
   padding: 12px; }
 
-img.icon-health-00to19.icon-lg {
+img.icon-health-00to19.icon-xlg {
   background-image: url("../img/fail32x32.png");
-  padding: 16px; }
+  padding: 20px; }
 
 img.icon-health-80plus.icon-sm {
   background-image: url("../img/smile16x16.png");
@@ -297,6 +353,10 @@ img.icon-health-80plus.icon-md {
 img.icon-health-80plus.icon-lg {
   background-image: url("../img/smile32x32.png");
   padding: 16px; }
+
+img.icon-health-80plus.icon-xlg {
+  background-image: url("../img/smile32x32.png");
+  padding: 20px; }
 
 #tasks .task {
   margin-bottom: 10px; }

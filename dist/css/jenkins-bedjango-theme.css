@@ -38,6 +38,11 @@ body {
 #header {
   background-color: #00ab57;
   height: 57px; }
+  #header a:link {
+    color: #F9F7F7;
+    text-decoration: none; }
+  #header a:visited {
+    color: #F9F7F7; }
 
 #jenkins-head-icon {
   bottom: -4px; }
@@ -281,15 +286,15 @@ img.icon-health-00to19.icon-lg {
   padding: 16px; }
 
 img.icon-health-80plus.icon-sm {
-  background-image: url("../img/Smile16x16.png");
+  background-image: url("../img/smile16x16.png");
   padding: 8px; }
 
 img.icon-health-80plus.icon-md {
-  background-image: url("../img/Smile24x24.png");
+  background-image: url("../img/smile24x24.png");
   padding: 12px; }
 
 img.icon-health-80plus.icon-lg {
-  background-image: url("../img/Smile32x32.png");
+  background-image: url("../img/smile32x32.png");
   padding: 16px; }
 
 #tasks .task {
@@ -338,12 +343,12 @@ img.icon-credentials-credentials.icon-xlg {
 
 footer {
   background-color: #1A1305;
-  color: white;
+  color: #F9F7F7;
   border-bottom: none; }
 
 a:link {
-  color: #fff;
+  color: #F9F7F7;
   text-decoration: none; }
 
 a:visited {
-  color: #fff; }
+  color: #F9F7F7; }

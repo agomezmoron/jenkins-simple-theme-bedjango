@@ -25,10 +25,6 @@
  * Authors: Javier Fernandez <fjfernandez@emergya.com>
             Alejandro Gomez <amoron@emergya.com>
 */
-/*
- *   Created on : 21-jun-2016, 15:32:16
- *   Author     : fjfernandez
- */
 @font-face {
   font-family: Lato;
   src: url("https://fonts.googleapis.com/css?family=Lato"); }
@@ -40,7 +36,7 @@ body {
   background-color: #F9F7F7; }
 
 #header {
-  background-color: #1681B3;
+  background-color: #00ab57;
   height: 57px; }
 
 #jenkins-head-icon {
@@ -51,7 +47,7 @@ body {
   left: 50px;
   bottom: -11px;
   padding: 22px 100px 22px 90px;
-  background-image: url("../img/drupalera.png"); }
+  background-image: url("../img/bedjango.png"); }
 
 #search-box {
   position: absolute;
@@ -60,8 +56,8 @@ body {
   box-shadow: none;
   background-color: transparent;
   border: 0;
-  color: #fff;
-  border-bottom: 1px solid #fff;
+  color: #000;
+  border-bottom: 1px solid #000;
   background: url("../img/ico_lupa.png") center left no-repeat;
   background-size: 15px;
   padding-left: 20px;
@@ -337,7 +333,7 @@ img.icon-credentials-credentials.icon-xlg {
   vertical-align: text-top; }
 
 #yui-gen1-button {
-  background-color: #1681B3 !important;
+  background-color: #00ab57 !important;
   border-radius: 5px !important; }
 
 footer {
@@ -346,8 +342,8 @@ footer {
   border-bottom: none; }
 
 a:link {
-  color: #1681B3;
+  color: #fff;
   text-decoration: none; }
 
 a:visited {
-  color: #1681B3; }
+  color: #fff; }

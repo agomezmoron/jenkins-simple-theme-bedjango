@@ -36,7 +36,7 @@ body {
   background-color: #F9F7F7; }
 
 #header {
-  background-color: #00AB59;
+  background-color: #00BD59;
   height: 57px; }
   #header a:link {
     color: #F9F7F7;
@@ -399,17 +399,20 @@ img.icon-credentials-credentials.icon-xlg {
   vertical-align: text-top; }
 
 #yui-gen1-button {
-  background-color: #00AB59 !important;
+  background-color: #00BD59 !important;
   border-radius: 5px !important; }
+
+.pane-header {
+  color: #00BD59; }
 
 footer {
   background-color: #025629;
-  color: #00AB59;
+  color: #00BD59;
   border-bottom: none; }
 
 a:link {
-  color: #00AB59;
+  color: #00BD59;
   text-decoration: none; }
 
 a:visited {
-  color: #00AB59; }
+  color: #00BD59; }

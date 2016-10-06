@@ -149,7 +149,8 @@ img.icon-red{
 
   &.icon-xlg{
     background-image: url("../img/error-32x32.png");
-    padding: 20px;
+    background-repeat: no-repeat;
+    padding: 24px;
   }
 }
 

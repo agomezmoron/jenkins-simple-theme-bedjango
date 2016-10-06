@@ -185,7 +185,8 @@ img.icon-red.icon-lg {
 
 img.icon-red.icon-xlg {
   background-image: url("../img/error-32x32.png");
-  padding: 20px; }
+  background-repeat: no-repeat;
+  padding: 24px; }
 
 img.icon-red-anime.icon-sm {
   background-image: url("../img/error16x16.gif");

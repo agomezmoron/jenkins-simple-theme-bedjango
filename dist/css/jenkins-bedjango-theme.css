@@ -88,8 +88,8 @@ img.icon-help.icon-sm {
 #breadcrumbs li:hover {
   background-color: #51be95 !important; }
 
-.smallfont a {
-  color: white;
+#breadcrumbs .smallfont a {
+  color: white !important;
   font-weight: bold; }
 
 div.col-xs-24.pane-header {

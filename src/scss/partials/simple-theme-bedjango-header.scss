@@ -96,9 +96,11 @@ img.icon-help.icon-sm
   }
 }
 
-.smallfont {
-  a{
-    color: white !important;
-    font-weight: bold;
+#breadcrumbs {
+  .smallfont {
+    a{
+      color: white !important;
+      font-weight: bold;
+    }
   }
 }

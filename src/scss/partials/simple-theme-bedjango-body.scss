@@ -521,7 +521,13 @@ table.stripped-odd tr:nth-child(odd){
   background: $table-stripped;
 }
 
-.tabBar .tab a.addTab:hover{
-  background: #51be95;
+.tabBar .tab a.addTab{
+
+  color: #44B78B;
+
+  &:hover{
+    background: #51be95;
+    color:white;
+  }
 }
 

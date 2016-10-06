@@ -93,7 +93,8 @@ img.icon-help.icon-sm {
   font-weight: bold; }
 
 div.col-xs-24.pane-header {
-  background-color: #44B78B; }
+  background-color: #44B78B;
+  color: white; }
 
 .bigtable th {
   background-color: #44B78B; }

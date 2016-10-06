@@ -51,7 +51,7 @@ body {
 #jenkins-name-icon {
   width: 0;
   left: 0px;
-  bottom: -11px;
+  bottom: -9px;
   padding: 22px 100px 22px 90px;
   background-image: url("../img/logo-bedjango.png");
   background-repeat: no-repeat;
@@ -88,7 +88,7 @@ img.icon-help.icon-sm {
 #breadcrumbs li:hover {
   background-color: #51be95 !important; }
 
-#breadcrumbs .smallfont a {
+#right-top-nav .smallfont a {
   color: white !important;
   font-weight: bold; }
 

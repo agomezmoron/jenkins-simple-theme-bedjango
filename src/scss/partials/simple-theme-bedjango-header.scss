@@ -37,7 +37,7 @@ body{
 #jenkins-name-icon{
   width: 0;
   left: 0px;
-  bottom: -11px;
+  bottom: -9px;
   padding: 22px 100px 22px 90px;
   background-image: url("../img/logo-bedjango.png");
   background-repeat: no-repeat;
@@ -96,7 +96,8 @@ img.icon-help.icon-sm
   }
 }
 
-#breadcrumbs {
+
+#right-top-nav{
   .smallfont {
     a{
       color: white !important;
@@ -104,3 +105,4 @@ img.icon-help.icon-sm
     }
   }
 }
+

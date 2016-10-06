@@ -33,7 +33,7 @@ body {
   font-family: "Lato"; }
 
 #jenkins {
-  background-color: #F9F7F7; }
+  background-color: #F8F8F8; }
 
 #header {
   background-color: #0C4B33;
@@ -80,13 +80,13 @@ img.icon-help.icon-sm {
   top: 14px; }
 
 #breadcrumbBar, #footer-container, .top-sticker-inner {
-  background-color: #EDEDED; }
+  background-color: #44B78B; }
 
 div.col-xs-24.pane-header {
-  background-color: #EDEDED; }
+  background-color: #44B78B; }
 
 .bigtable th {
-  background-color: #EDEDED; }
+  background-color: #44B78B; }
 
 img.icon-collapse.icon-sm {
   background-image: url("../img/chevron-up.png");
@@ -408,7 +408,7 @@ img.icon-credentials-credentials.icon-xlg {
   color: #0C4B33; }
 
 footer {
-  background-color: #025629;
+  background-color: #0C4B33;
   color: #0C4B33;
   border-bottom: none; }
 

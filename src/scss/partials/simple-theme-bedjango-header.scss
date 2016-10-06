@@ -30,16 +30,18 @@ body{
 //Move the jenkins icon
 #jenkins-head-icon{
   bottom:-4px;
+  display: none;
 }
 
 //Place the drupalera logo.
 #jenkins-name-icon{
   width: 0;
-  left: 50px;
+  left: 0px;
   bottom: -11px;
   padding: 22px 100px 22px 90px;
   background-image: url("../img/logo-bedjango.png");
   background-repeat: no-repeat;
+  background-size: contain;
 }
 
 //Change the position of the search input

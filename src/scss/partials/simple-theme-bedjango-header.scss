@@ -91,7 +91,14 @@ img.icon-help.icon-sm
 
 //Change the over bg
 #breadcrumbs {
-  li.item:hover{
+  li:hover{
     background-color:#51be95 !important;
+  }
+}
+
+.smallfont {
+  a{
+    color: white;
+    font-weight: bold;
   }
 }

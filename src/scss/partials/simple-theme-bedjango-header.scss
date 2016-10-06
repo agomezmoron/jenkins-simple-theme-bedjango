@@ -77,3 +77,17 @@ img.icon-help.icon-sm
 #breadcrumbBar, #footer-container, .top-sticker-inner{
   background-color: $sub-header-bg;
 }
+
+//Change subHeader fonts
+#breadcrumbs LI A:link, #breadcrumbs LI A:visited{
+  color:white;
+}
+
+#breadcrumbs LI A:hover, #crumbs LI A:focus {
+  color: white;
+}
+
+//Change the over bg
+#breadcrumbs LI:hover{
+  color: #51be95;
+}

@@ -4,11 +4,21 @@
 div.col-xs-24.pane-header{
   background-color: $colums-bg;
   color:white;
+
+  a{
+    color: white;
+  }
 }
 
 //Change the table bg
 .bigtable th{
   background-color: $main-table-bg;
+
+  a{
+    &.sortheader{
+      color: white;
+    }
+  }
 }
 
 //Chevron

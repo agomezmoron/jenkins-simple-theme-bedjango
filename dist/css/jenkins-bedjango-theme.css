@@ -95,9 +95,13 @@ img.icon-help.icon-sm {
 div.col-xs-24.pane-header {
   background-color: #44B78B;
   color: white; }
+  div.col-xs-24.pane-header a {
+    color: white; }
 
 .bigtable th {
   background-color: #44B78B; }
+  .bigtable th a.sortheader {
+    color: white; }
 
 img.icon-collapse.icon-sm {
   background-image: url("../img/chevron-up.png");

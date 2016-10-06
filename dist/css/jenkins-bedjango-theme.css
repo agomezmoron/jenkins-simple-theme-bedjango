@@ -423,7 +423,7 @@ img.icon-credentials-credentials.icon-xlg {
   color: #0C4B33; }
 
 table.stripped-odd tr:nth-child(odd) {
-  background: red; }
+  background: rgba(225, 226, 227, 0.81); }
 
 footer {
   background-color: #0C4B33;

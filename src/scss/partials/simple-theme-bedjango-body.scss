@@ -513,3 +513,7 @@ img.icon-credentials-credentials{
 .pane-header{
   color: $header-bg-main;
 }
+
+table.stripped-odd tr:nth-child(odd){
+  color: red;
+}

@@ -422,6 +422,9 @@ img.icon-credentials-credentials.icon-xlg {
 .pane-header {
   color: #0C4B33; }
 
+table.stripped-odd tr:nth-child(odd) {
+  color: red; }
+
 footer {
   background-color: #0C4B33;
   color: #6A9182;

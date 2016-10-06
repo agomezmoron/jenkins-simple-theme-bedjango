@@ -516,7 +516,12 @@ img.icon-credentials-credentials{
   color: $header-bg-main;
 }
 
+//Stripped table
 table.stripped-odd tr:nth-child(odd){
   background: $table-stripped;
+}
+
+.tabBar .tab a.addTab:hover{
+  background: #51be95;
 }
 

@@ -427,6 +427,9 @@ img.icon-credentials-credentials.icon-xlg {
 table.stripped-odd tr:nth-child(odd) {
   background: rgba(225, 226, 227, 0.81); }
 
+.tabBar .tab a.addTab:hover {
+  background: #51be95; }
+
 footer {
   background-color: #0C4B33;
   color: #6A9182;

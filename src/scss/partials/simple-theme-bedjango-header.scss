@@ -82,7 +82,7 @@ img.icon-help.icon-sm
 #breadcrumbs{
   li{
     a:link, a:visited, a:hover, a:focus, a{
-      color:white;
+      color:white !important;
     }
   }
 }
@@ -91,7 +91,7 @@ img.icon-help.icon-sm
 
 //Change the over bg
 #breadcrumbs {
-  li:hover{
+  li.item:hover{
     background-color:#51be95 !important;
   }
 }

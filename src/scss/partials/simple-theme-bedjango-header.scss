@@ -79,15 +79,19 @@ img.icon-help.icon-sm
 }
 
 //Change subHeader fonts
-#breadcrumbs LI A:link, #breadcrumbs LI A:visited{
-  color:white;
+#breadcrumbs{
+  li{
+    a:link, a:visited, a:hover, a:focus{
+      color:white;
+    }
+  }
 }
 
-#breadcrumbs LI A:hover, #crumbs LI A:focus {
-  color: white;
-}
+
 
 //Change the over bg
-#breadcrumbs LI:hover{
-  color: #51be95;
+#breadcrumbs {
+  li:hover{
+    background-color:#51be95;
+  }
 }

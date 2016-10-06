@@ -82,14 +82,11 @@ img.icon-help.icon-sm {
 #breadcrumbBar, #footer-container, .top-sticker-inner {
   background-color: #44B78B; }
 
-#breadcrumbs LI A:link, #breadcrumbs LI A:visited {
+#breadcrumbs li a:link, #breadcrumbs li a:visited, #breadcrumbs li a:hover, #breadcrumbs li a:focus {
   color: white; }
 
-#breadcrumbs LI A:hover, #crumbs LI A:focus {
-  color: white; }
-
-#breadcrumbs LI:hover {
-  color: #51be95; }
+#breadcrumbs li:hover {
+  background-color: #51be95; }
 
 div.col-xs-24.pane-header {
   background-color: #44B78B; }

@@ -2,15 +2,15 @@
 
 footer{
   background-color: $footer-bg;
-  color: $header-bg-main;
+  color: $footer-color;
   border-bottom: none;
 }
 
 a:link{
-  color: $header-bg-main;
+  color: $footer-color;
   text-decoration:none;
 }
 
 a:visited{
-  color: $header-bg-main;
+  color: $footer-color;
 }

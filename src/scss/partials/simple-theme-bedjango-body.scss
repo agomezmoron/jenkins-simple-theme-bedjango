@@ -406,8 +406,10 @@ img.icon-health-00to19{
   }
 
   &.icon-lg{
+    //background-image: url("../img/fail24x24.png");
+    //padding: 12px;
     background-image: url("../img/fail32x32.png");
-    padding: 20px;
+    padding: 16px;
   }
 }
 

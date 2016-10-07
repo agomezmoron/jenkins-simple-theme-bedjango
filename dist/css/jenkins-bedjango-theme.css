@@ -92,6 +92,9 @@ img.icon-help.icon-sm {
   color: white !important;
   font-weight: bold; }
 
+#breadcrumbs .mouseIsOverMenuSelector {
+  background-color: #51be95 !important; }
+
 div.col-xs-24.pane-header {
   background-color: #44B78B;
   color: white; }

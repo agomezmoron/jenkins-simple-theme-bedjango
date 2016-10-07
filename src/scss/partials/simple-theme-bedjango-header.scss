@@ -92,7 +92,7 @@ img.icon-help.icon-sm
 //Change the over bg
 #breadcrumbs {
   li:hover{
-    background-color:#51be95 !important;
+    background-color: $over-bg !important;
   }
 }
 
@@ -106,3 +106,8 @@ img.icon-help.icon-sm
   }
 }
 
+#breadcrumbs{
+  .mouseIsOverMenuSelector{
+    background-color: $over-bg !important;
+  }
+}

@@ -39,6 +39,6 @@ If you are experiencing issues feel free to let me know.
 
 [jenkins-simple-theme]: https://wiki.jenkins-ci.org/display/JENKINS/Simple+Theme+Plugin
 [jenkins-simple-theme-min]: https://cdn.rawgit.com/agomezmoron/jenkins-simple-theme-bedjango/master/dist/css/jenkins-bedjango-theme.min.css
-[bedjango]: http://www.lbedjango.com/
+[bedjango]: http://www.bedjango.com/
 [jfernandez89]: https://github.com/jfernandez89
 [open-iconic]: https://github.com/iconic/open-iconic

@@ -30,7 +30,7 @@ If you are experiencing issues feel free to let me know.
 
 <img src="src/img/BeDjangoLook%26Feel.png" />
 
-##Thanks to
+## Thanks to
 - [Simple Theme Plugin][jenkins-simple-theme] for the Simple Theme plugin
 - [BeDjango][bedjango] for the the design inspiration and for having an awesome team
 - [Francisco J. Javier Fernandez][jfernandez89]
